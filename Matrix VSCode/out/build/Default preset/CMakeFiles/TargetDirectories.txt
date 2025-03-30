@@ -1,0 +1,3 @@
+/mnt/d/MIPT/Informatics/Matrix VSCode/out/build/Default preset/CMakeFiles/Matrix.dir
+/mnt/d/MIPT/Informatics/Matrix VSCode/out/build/Default preset/CMakeFiles/edit_cache.dir
+/mnt/d/MIPT/Informatics/Matrix VSCode/out/build/Default preset/CMakeFiles/rebuild_cache.dir

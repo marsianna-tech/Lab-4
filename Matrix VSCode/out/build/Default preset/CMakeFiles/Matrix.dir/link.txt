@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/Matrix.dir/main.cpp.o CMakeFiles/Matrix.dir/matrix.cpp.o -o "/mnt/d/MIPT/Informatics/Matrix VSCode/Matrix" 

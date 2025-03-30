@@ -1,0 +1,6 @@
+/mnt/d/MIPT/Informatics/yet_another_educational_cowsay-main/yet_another_educational_cowsay-main/build/CMakeFiles/main.dir
+/mnt/d/MIPT/Informatics/yet_another_educational_cowsay-main/yet_another_educational_cowsay-main/build/CMakeFiles/edit_cache.dir
+/mnt/d/MIPT/Informatics/yet_another_educational_cowsay-main/yet_another_educational_cowsay-main/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/MIPT/Informatics/yet_another_educational_cowsay-main/yet_another_educational_cowsay-main/build/src/CMakeFiles/src.dir
+/mnt/d/MIPT/Informatics/yet_another_educational_cowsay-main/yet_another_educational_cowsay-main/build/src/CMakeFiles/edit_cache.dir
+/mnt/d/MIPT/Informatics/yet_another_educational_cowsay-main/yet_another_educational_cowsay-main/build/src/CMakeFiles/rebuild_cache.dir

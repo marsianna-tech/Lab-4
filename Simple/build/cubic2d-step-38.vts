@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<VTKFile type="StructuredGrid" version="0.1" byte_order="LittleEndian" header_type="UInt32" compressor="vtkZLibDataCompressor">
+  <StructuredGrid WholeExtent="0 9 0 9 0 0">
+    <Piece Extent="0 9 0 9 0 0"                                                       >
+      <PointData>
+        <DataArray type="Float64" Name="velocity" NumberOfComponents="3" format="appended" RangeMin="0"                    RangeMax="0.81197290595"        offset="0"                   />
+        <DataArray type="Float64" Name="smth" format="appended" RangeMin="0"                    RangeMax="1.62"                 offset="544"                 />
+      </PointData>
+      <CellData>
+      </CellData>
+      <Points>
+        <DataArray type="Float32" Name="Points" NumberOfComponents="3" format="appended" RangeMin="0.015566630907"       RangeMax="1.2964382825"         offset="1024"                />
+      </Points>
+    </Piece>
+  </StructuredGrid>
+  <AppendedData encoding="base64">
+   _AQAAAACAAABgCQAAhAEAAA==eJyNlbFuwjAQhisWpIixc+e+ROWRmbmIZ+iImkYsMLP4DfDcFWaUB2DLWFViqdqVHYnkYt1/95N6iXxxfL+//3wpHz+n3+8xlN3zoRvtPPXzj9t83c91PIUSnpNm9/ZS7E28XV/3+XSek9HR7tPAPjEstsfL8/yL6DmbvH+zw9Pm9wfyxoDnwnNjXNajzgq+k/eaQwSetckz6jhgXp9DGuTg67c6mb/4vaxfAQe9TzL+FsBB4pVbD9HUg+bZBPTptePg18/enLciOv1zIa88XxJuS1JHWA+aW230CwfMXygOWSerK5+DrQc8l++LrQe9HuvE8mO+aA4J+J+MHzo+zLNw+5Lot/XwPw45viH1syL7D3HwfbS++30j0vuFeWX4fuG50Jc87nNLlPOY3Avsb34/ZP8R/H9xDhhnfuF9Z/3BvxcR4ri/+H42eRd3+xtyyP2T1RXqZP1B6+R9z+fAucnQ/2X0CznEoPt81i/90NfDOaCeMfQHfV7rF6tz+e4KvkkvLA==AQAAAACAAAAgAwAAVAEAAA==eJxVUrFKA0EQPdtoeVha20dLfaV1evEbrCWl2p6FjWiXWKSJFoJJJ0lEBNFDlEMRjDFyJHeQEBKDnbc78zZkmmVnZ96892Y9T6LoV7e+9vYhZxlLUWl3I3et9xakKtR8hJ2gMVnd/tT3LtJCbeUg6WEe5xinJyYqOLNnHa2sK2jcomxQSiEusyq/GmHB4rfx+GCii82cGdR3fIgj9yuc2/4bzd/jyNAJnnXOG6ZmzKSt836wljeROF3kQxzJ3ymPEE3b94ony+dD8TuqO1aeqfOHusiHOPL+onredd5Mp9T3sGjnD5zP9Ie6yIc4nvp1mBjjv3FhfYx1Xopfq3/o9kWf6Q91kQ9xpD7GuvolOoaoZ9st1EZu79wXfaY/1EU+xJG+AZYNPX+kdWP3f9jHfdFn+kNd5EMcyY91v1P3D/l/uHfuiz7TH+oin3mcP/wDCwWGuA==AQAAAACAAACwBAAARgIAAA==eJw1lLFLm1EUxYsQQTs5OERinaQgtUuw1nzvvYtL6fBBaii0S5dSAqLFpUsRHLQgbjrG5RNUHKQKhSoInTq4xCUtTWfpIv4BFrr0+913X6aTm/PuOfe8+1IcT7uRy4a7V36K48/uqtv1D/e2Mr5fdfNQYkf9/rPD8OjnmAeHj7+pl3jazf2qiB/uK97tVKXkBDjNB0/EfWsF6yMlX+uFW5Yvj0/C/Pq1RxctNHfW/vnI7frTyXf0z+DsdjrqgXplv6ceqJdUenrq6OIBvDw0px6+zv4t+S31QL3dbqsHZhq5vHCxZx5OJ//46CHX3/Awv/429FYK9bB59CqgCx/MvHgA91Ym1AOYefEAvjlvqgf6oIuHu8FCe3OWmUzXUU/zgskZ3ssPB/jWOnyb14EtZw8fXTyAyRkPcMgZD1ONXpqXfDQLzoJNl2yD5ZzBZ148bB71Q+12QGIO/XD2qSaJbzlrH+aNOfRVFw9v3leEHuCTswGxeRWTM2fhWM6Ouu1VBkaX82DT1Tq6ic/90odsNhYW1QPZWM7h+YuasFcxk2rZ/7XuLXV0411UxXLW/U3z3g1OCPdLL+qmm3EWXfhgy9lf38wI+8xd1+t11cUDdXLGw/beU7GclZ/2GWy6Dmx7ldEHXTxw1nLO4Ni8bnWjKfaOAhhdPIAtZ8XMG99ILrbPfqrRUt14j3nSddTRtneh8+KBPsxLnb2mxlv+/mNJ7H8jjI4vas54oG456zvgfvEAtnkVp32Gb7qOPmleMLro/Qd/VNDQ
+  </AppendedData>
+</VTKFile>
