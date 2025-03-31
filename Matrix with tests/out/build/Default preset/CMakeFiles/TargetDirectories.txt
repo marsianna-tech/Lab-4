@@ -1,0 +1,6 @@
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/out/build/Default preset/CMakeFiles/main.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/out/build/Default preset/CMakeFiles/edit_cache.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/out/build/Default preset/CMakeFiles/rebuild_cache.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/out/build/Default preset/src/CMakeFiles/src.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/out/build/Default preset/src/CMakeFiles/edit_cache.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/out/build/Default preset/src/CMakeFiles/rebuild_cache.dir

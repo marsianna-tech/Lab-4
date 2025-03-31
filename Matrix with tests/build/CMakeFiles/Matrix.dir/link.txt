@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Matrix.dir/main.cpp.o CMakeFiles/Matrix.dir/matrix.cpp.o -o "/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/Matrix" 

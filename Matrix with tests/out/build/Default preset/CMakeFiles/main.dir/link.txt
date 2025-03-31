@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/main.dir/test/test3.cpp.o -o "/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/main"  src/libsrc.a 

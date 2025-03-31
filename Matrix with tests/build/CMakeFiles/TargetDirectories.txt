@@ -1,0 +1,6 @@
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/build/CMakeFiles/main.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/build/CMakeFiles/edit_cache.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/build/src/CMakeFiles/src.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/build/src/CMakeFiles/edit_cache.dir
+/mnt/d/MIPT/Informatics/Lab-4/Matrix with tests/build/src/CMakeFiles/rebuild_cache.dir
